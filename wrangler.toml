@@ -1,0 +1,6 @@
+name = "my-telegram-bot"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+# توکن رو اینجا نذار، توی Environment Variables کلودفلر تنظیم می‌کنیم
